@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(51,9): warning C4101: 'cBlue': unreferenced local variable
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(50,9): warning C4101: 'cGreen': unreferenced local variable
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(49,9): warning C4101: 'cRed': unreferenced local variable
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(299,48): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(300,66): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(300,48): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(301,51): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(343,76): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(344,69): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(420,48): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(421,66): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(421,48): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(422,51): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(434,75): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Britt\source\repos\CSS487\Program4\Program4\main.cpp(435,68): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Program4.vcxproj -> C:\Users\Britt\source\repos\CSS487\Program4\Program4\x64\Debug\Program4.exe
