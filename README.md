@@ -1,4 +1,4 @@
-# CSS487 Final
+# CSS487: Computer Vision (Final)
 ## What I was trying to accomplish:
 This project aimed to identify different chips (DS/3DS) of the Animal Crossing series. My goals for this project were image recognition, feature matching, and accuracy and precision.<br>
 <br>**Image Recognition:**<br>
